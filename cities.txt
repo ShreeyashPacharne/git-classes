@@ -2,6 +2,6 @@ pune
 Bangalore
 Mumbai
 Chennai
-Delhi -> Capital
+Delhi -> Capital, best city
 cochin
 
